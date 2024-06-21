@@ -1,0 +1,195 @@
+id_respuestas,respuesta,ia,calidad_respuesta,id_pregunta
+1,"Utilizando el verbo auxiliar ""do"" o ""does"" seguido del sujeto y el verbo en su forma base (infinitivo sin ""to"").",ChatGPT,4,1
+2,"Usando el auxiliar ""do/does"": Esta forma se utiliza para preguntas que no comienzan con una palabra interrogativa.",copilot ,4,1
+3,"puedes usar el verbo ""to do"" o invertir el sujeto y el verbo.Auxiliares: Do (yo, tú, nosotros, ellos) / Does (él, ella, eso) + verbo principal + complemento.
+Palabras interrogativas: Palabra interrogativa + do/does + verbo principal + complemento.
+""To be"": Sujeto + verbo ""to be"" + complemento.",Gemini ,3,1
+4,"""do"" se usa con pronombres personales y sustantivos en plural, mientras que ""does"" se usa con pronombres personales y sustantivos en singular.",ChatGPT,4,2
+5,"do"" se emplea con ""I"", ""you"", ""we"", y ""they"", o con sustantivos en plural. ""does"" se utiliza con ""he"", ""she"", ""it"", o con sustantivos en singular.",Copilot ,4,2
+6,"Auxiliares ""do"" y ""does"" en presente simple:Do: Se usa con sujetos en primera, segunda o plural (I, you, we, they).Does: Se usa con sujetos en tercera persona del singular (he, she, it).",Gemini ,3,2
+7,Un adjetivo descriptivo es una palabra que se utiliza para describir o calificar características de un sustantivo,ChatGPT,3,3
+8,Los adjetivos demostrativos son palabras que indican la proximidad o lejanía de un objeto con respecto al hablante.,Copilot,4,3
+9,"¿Qué/Dónde/Cuándo/Quién/Por qué/Cuál/Cómo + verbo + compl.?Sujeto + am/are/is + adj./sust. (verbos de estado)Sin ""do/does"".Conjuga según sujeto.""To be"": am (yo), are (tú/nos/ellos), is (él/ella/eso).",Gemini ,4,3
+10,"En presente simple, puedes hacer preguntas afirmativas, negativas, con palabras interrogativas o de opción.",ChatGPT,5,4
+11,"En presente simple, puedes hacer preguntas para confirmar información (preguntas afirmativas), verificar negaciones (preguntas negativas), obtener detalles específicos (preguntas con palabras interrogativas), o dar opciones (preguntas de opción).",Copilot,5,4
+12,Preguntas de sí o no:¿Te gusta el café? (Do you like coffee?)¿Habla español? (Does she speak Spanish?)2. Preguntas con palabras interrogativas:¿Qué comes? (What do you eat?)¿Dónde vives? (Where do you live?)¿Cómo se llama? (What is his name?),Gemini ,5,4
+13,¿Te despiertas temprano? ¿Desayunas antes de salir? ¿Trabajas los fines de semana? ¿Vas al gimnasio? ¿Cenas con tu familia? ¿Estudias algún idioma? ¿Sales a caminar? ¿Llegas puntual? ¿Ves televisión? ¿Llamas a tus amigos?,ChatGPT,5,5
+14,¿Van ellos al cine normalmente?,copilot,4,5
+15,A qué hora te despiertas normalmente?2. ¿Qué haces después de desayunar?,Gemini,5,5
+16,"Los verbos regulares en pasado simple se conjugan añadiendo la terminación ""-ed"" a la forma base del verbo.",Gemini,5,6
+17,Los verbos regulares en inglés se conjugan en pasado simple añadiendo -ed al final del verbo en su forma base.,Copilot,5,6
+18,"En inglés, el pasado simple de los verbos regulares se forma añadiendo ""-ed"" al infinitivo del verbo.",ChatGPT,5,6
+19,"Las oraciones negativas en pasado simple se forman utilizando el auxiliar ""did"" seguido del verbo principal en su forma base y la partícula negativa ""not"" (no).",Gemini,4,7
+20,"Se forman con el auxiliar ‘did not’ seguido del verbo en su forma base. Por ejemplo, “I did not work” (No trabajé).",Copilot,4,7
+21,"Para formar oraciones negativas en pasado simple, se utiliza el verbo auxiliar ""did"" seguido de ""not"" y el verbo en su forma base (infinitivo) sin ""-ed"".",ChatGPT,5,7
+22,"Las preguntas en pasado simple se forman utilizando el auxiliar ""did"" al principio de la oración, seguido del sujeto y el verbo principal en su forma base.",Gemini,4,8
+23,"Se forman con ‘did’ antes del sujeto y el verbo en su forma base. Por ejemplo, “Did you work?” (¿Trabajaste?).",Copilot,4,8
+24,"Para formar preguntas en pasado simple, se utiliza el verbo auxiliar ""did"" seguido del sujeto y el verbo en su forma base (infinitivo) sin ""-ed"".",ChatGPT,5,8
+25,El pasado simple se utiliza para hablar de acciones o eventos que ya han terminado en un momento específico del pasado.,Gemini,4,9
+26,"Se utiliza para hablar de acciones completadas en un tiempo pasado específico. Por ejemplo, “I worked yesterday” (Trabajé ayer).",Copilot,5,9
+27,"El pasado simple se utiliza para hablar de acciones que ocurrieron y se completaron en un tiempo específico en el pasado. Se usa comúnmente para narrar eventos pasados, contar historias o relatar experiencias anteriores.",ChatGPT,4,9
+28,"Hay algunos verbos irregulares en inglés que no se conjugan en pasado simple añadiendo la terminación ""-ed"". Estos verbos tienen que aprenderse de memoria.",Gemini,2,10
+29,"Los verbos irregulares no siguen la regla de añadir ‘-ed’ para formar el pasado. Cada uno tiene su propia forma. Por ejemplo, “go” se convierte en “went” y “see” en “saw”.",Copilot,3,10
+30,"Las excepciones al pasado simple incluyen verbos irregulares, verbos que terminan en ""-e"", y aquellos que terminan en consonante + ""y"" donde se cambia la ""y"" por ""i"" antes de añadir ""-ed"".",ChatGPT,5,10
+31,"el adjetivo interrogativo que se utiliza para preguntar por opciones específicas es ""which"".",chat gpt,4,11
+32,"Un ejemplo de un adjetivo indefinido en español es ""alguno"". Por ejemplo, ""Tengo algunos libros en casa"" o ""Necesito comprar algunas frutas"".",gemini,3,11
+33,"Los adjetivos descriptivos son palabras que acompañan al sustantivo proporcionando alguna cualidad, estado o característica1. ",copilot,2,11
+34,"Los adjetivos demostrativos en inglés son ""this"", ""that"", ""these"" y ""those"". Se utilizan para indicar la proximidad o la distancia entre el hablante y el objeto o persona que se está describiendo.",chat gpt,4,12
+35,"Para ""we"", el adjetivo posesivo en inglés es ""our"". Por ejemplo, ""our house"" significa ""nuestra casa"" y ""our car"" significa ""nuestro coche"".",copilot,4,12
+36,"El adjetivo interrogativo que se utiliza para preguntar por opciones específicas en inglés es “which”. Por ejemplo, puedes decir: “¿Cuál es tu película favorita?” usando “Which” como en ""Which movie is your favorite?""12.",chat gpt,4,12
+37,"Para ""we"", el adjetivo posesivo en inglés es ""our"". Por ejemplo:Our house",claude,3,13
+38,Los adjetivos demostrativos son palabras que señalan o indican la ubicación o posición de un objeto o persona con respecto al hablante.,copilot,5,13
+39,"El adjetivo posesivo para ""we"" en español es ""nuestro""",chat gpt,2,13
+40,los adjetivos indefinidos introducen al sustantivo en la oración y delimitan su cantidad o identidad de manera poco exacta.,copilot,2,14
+41,"Los adjetivos descriptivos son palabras que acompañan a los sustantivos y proporcionan información sobre sus cualidades, estados o características.",chat gpt,3,14
+42,Los adjetivos demostrativos se utilizan para señalar o indicar la posición en el espacio o en el tiempo de un objeto o persona con respecto al hablante y al oyente.,copilot,2,14
+43,"El adjetivo posesivo para “we” en español es “nuestro”. Por ejemplo, puedes decir: “Nuestra casa está lejos de aquí” o “Las expectativas nuestras son altas” 1.",chat gpt,4,15
+44,"e utiliza para referirse a una cantidad no específica de algo, pero que es más de uno.",Gemeni,5,15
+45,los adjetivos indefinidos son aquellos que introducen al sustantivo en la oración y delimitan su cantidad o identidad de manera poco exacta.,copilon,3,15
+46,"El pronombre objeto para ""él"" en español es lo cuando se refiere a un objeto masculino singular y la cuando se refiere a un objeto femenino singular.",Gemeni,3,16
+47,"En español, los pronombres objeto directo para ""él"" y ""ella"" son ""lo"" y ""la"", respectivamente.",Chat Gpt,2,16
+48,Los pronombres objeto directo en español son “lo” para “él” y “la” para “ella”. Estos se utilizan para referirse a la persona o cosa que recibe la acción del verbo.,Copilot,3,16
+49,"Se usa cuando el pronombre posesivo actúa como adjetivo, acompañando a un sustantivo.",chat Gpt,5,17
+50,Es el pronombre posesivo que se utiliza cuando queremos referirnos a algo que pertenece a “you”.,Copilot,3,17
+51,"El pronombre posesivo para ""you"" en español depende de si se usa en forma tónica o átona",Gemeni,3,17
+52,Es el pronombre relativo más común y versátil. Se utiliza para introducir una oración subordinada que describe o especifica algo sobre el antecedente.,Copilot,3,18
+53,"Los pronombres reflexivos en español se usan en una variedad de situaciones, pero en general, se emplean para indicar que la acción del verbo se realiza sobre el mismo sujeto.",Gemeni,2,18
+54,"Los pronombres reflexivos en español se utilizan en varias situaciones, y su uso principal es para indicar que la acción del verbo recae sobre el mismo sujeto que la realiza",chat Gpt,5,18
+55,"El pronombre relativo que se usa para personas en español es ""quien"" (en singular) o ""quienes"" (en plural). También se puede usar ""que"" en ciertas construcciones.",chat Gpt,3,19
+56,Se emplea para referirse a algo específico o para hacer una aclaración sobre el antecedente,Copilot,4,19
+57,"En español, hay dos pronombres relativos principales que se usan para referirse a personas: quien(es) y que.",Gemeni,2,19
+58,"En español, los tipos de pronombres incluyen personales, demostrativos, posesivos, relativos, indefinidos, reflexivos, recíprocos, interrogativos, exclamativos, enclíticos y neutros.",chat Gpt,2,20
+59,"“Los pronombres objeto directo para ‘él’ y ‘ella’ son ‘lo’ y ‘la’, respectivamente.”",Gemeni,4,20
+60,"Los pronombres en español se dividen en personales, demostrativos, posesivos, relativos, indefinidos, reflexivos, recíprocos, interrogativos, exclamativos, enclíticos y neutros.",Copilot,2,20
+61,El Past Continuous (Presente Continuo del Pasado) es una forma verbale que se utiliza para describir una acción que estaba en curso en el pasado y que duró por un período de tiempo determinado.,Gemeni,2,21
+62,"El Past Continuous se forma con la ayuda del verbo auxiliar ""was/were"" + el verbo en el gerundio.",Chat Gpt,2,21
+63,"El ""Past Continuous"" (también llamado ""Past Progressive"") es un tiempo verbal en inglés que se utiliza para describir una acción que estaba en progreso en el pasado. Este tiempo verbal se forma utilizando el auxiliar ""was"" o ""were"" seguido del gerundio (-ing) del verbo.",Copilot,3,21
+64,"En inglés, la forma de formar una pregunta en pasado continuo (o Past Continuous) es similar a la de la forma afirmativa, pero con una pequeña modificación. * ¿What was she studying when she got home? (¿Qué estaba estudiando cuando regresó a casa?)",chat Gpt,2,22
+65,"**Se forma una pregunta en Past Continuous utilizando la siguiente estructura:**
+
+**Sujeto + estaba + verbing en -ing + objeto.**",Copilot,2,22
+66,"Sure, I'd be happy to help! The past continuous tense is used to describe actions that were in progress in the past. To form a question in the past continuous, follow these steps:
+
+1. Start with the subject of the sentence.
+2. Use the auxiliary verb ""was"" or ""were"" (was for singular subjects and were for plural subjects) followed by the present participle (base verb with -ing).
+3. Finish the question with a question mark.",Gemeni,3,22
+67,"Un ejemplo de una pregunta en forma de Past Continuous sería: ""What were you doing at 10:00 PM last night?"" (Estás preguntando por el presente continuo del pasado, es decir, el estado o acción que estaba sucediendo en un momento específico en el pasado)",Copilot,2,23
+68,"Claro, aquí está un ejemplo de una pregunta en Past Continuous:
+
+**¿Estaba hablando del proyecto cuando llegó a la oficina?**",Gemeni,2,23
+69,"Claro, aquí está un ejemplo de pregunta en Pasado Continuo (Past Continuous):
+
+""¿Qué estabas haciendo a las 3 de la tarde hace dos días?""",chat Gpt,3,23
+70,"En inglés, tanto el Past Simple (PS) como el Past Continuous (PC) se utilizan para describir acciones pasadas, pero con algunas importantes diferencias. * El Past Simple se utiliza para describir acciones completas y finalizadas.
+* El Past Continuous se utiliza para describir acciones en curso o que estaban en curso en un momento pasado específico.",chat Gpt,2,24
+71,"PAST CONTINUOS * Se utiliza para describir acciones que estaban en curso o que se estaban realizando en un punto en el pasado.
+* Se forma con el verbo auxiliar ""was"" o ""were"" más el verbo en el pasado participle.
+* Se usa para enfatizar que la acción estaba en curso o que aún estaba en proceso. 
+PAST SIMPLE * Se utiliza para describir acciones que se completaron en un punto en el pasado.
+* Se forma con el verbo en el pasado.
+* Se usa para describir eventos simples o eventos que estaban completos.",Copilot,2,24
+72,"En resumen, la diferencia entre el Past Continuous y el Past Simple radica en el tipo de acción que se está describiendo: el Past Simple se utiliza para acciones completas y puntuales, mientras que el Past Continuous se utiliza para acciones en progreso en el pasado.",Gemeni,3,24
+73,"El Past Continuous (también conocido como el Present Perfect Continuous, no debe confundirse con el Past Simple Continuous) se utiliza para describir una acción que estaba en curso en un momento pasado y que no ha terminado (o que no empezó o finalizó en ese momento).",chat Gpt,2,25
+74,"* El Past Continuous se utiliza para describir acciones en curso que fueron interrumpidas, no para acciones que ya estaban completadas. * La interrummación debe ser una acción o evento que ocurrió en un momento específico en el pasado.",Gemeni,2,25
+75,"El Pasado Continuo (también llamado Pasado Progresivo) se utiliza para describir una acción que estaba en progreso en un momento específico del pasado, y que fue interrumpida por otra acción o evento.
+
+La forma del Pass Continuous se construye utilizando el verbo ""to be"" en el pasado (was/were) seguido del gerundio (-ing) del verbo principal.
+
+Por ejemplo:
+
+* Estaba leyendo un libro cuando sonó el teléfono. (I was reading a book when the phone rang.)
+* Ellos estaban jugando al fútbol cuando comenzó a llover. (They were playing football when it started to rain.)
+
+En estos ejemplos, las acciones ""estaba leyendo"" y ""estaban jugando"" fueron interrumpidas por el sonido del teléfono y la lluvia, respectivamente.",Copilot,3,25
+76,"Invertir la estructura de la oración.Agregar ""do"" o ""does"" antes del verbo principal.Agregar ""be"" para preguntas de existencia o condición.Agregar ""have"" para preguntas de posesión o situación.Agregar ""can"" o ""could"" para preguntas de capacidad o posibilidad.",llama3-8b-8192,3,1
+77,"Claro!Las formas principales de formar preguntas en presente simple s Invertir la estructura de la oración.Agregar ""do"" o ""does"" antes del verbo principal.Agregar ""be"" para preguntas de existencia o condición.Agregar ""have"" para preguntas de posesión o situación.Agregar ""can"" o ""could"" para preguntas de capacidad o posibilidad.¡Espero que esto te sea útil!",gemma-7b-it,2,1
+78,"Si estás buscando una forma más reducida o abreviada de formar preguntas en presente simple en inglés, aquí tienes algunas opciones:Sujeto + verbo auxiliar ""do/does"" + verbo base (forma abreviada): En lugar de decir ""Do you like music?"", puedes decir ""You like music?"". De la misma manera, en lugar de decir ""Does she play soccer?"", puedes decir ""She play soccer?"". Esta forma abreviada se utiliza comúnmente en el habla informal y se entiende fácilmente en contexto.Sujeto + verbo ""to be"" en presente simple + verbo base (forma abreviada): En lugar de decir ""Are you a teacher?"", puedes decir ""You teacher?"". De la misma manera, en lugar de decir ""Is he tall?"", puedes decir ""He tall?"". Esta forma abreviada también se utiliza comúnmente en el habla informal y se entiende fácilmente en contexto.Sujeto + verbo modal en presente simple + verbo base (forma abreviada): En lugar de decir ""Can you swim?"", puedes decir ""You swim?"". De la misma manera, en lugar de decir ""Should she study?"", puedes decir ""She study?"". Esta forma abreviada también se utiliza comúnmente en el habla informal y se entiende fácilmente en contexto.Sin embargo, ten en cuenta que estas formas abreviadas pueden sonar menos formales o menos educadas en algunos contextos, especialmente en el lenguaje escrito o en situaciones formales. Por lo tanto, es importante ser consciente del contexto y del nivel de formalidad deseado al hacer preguntas en inglés.",mixtral-8x7b-32768,3,1
+79,"Auxiliar ""do"":Para preguntas con yo como sujeto.Auxiliar ""does"":Para preguntas con tú, él, ella, usted, ellos o ellas como sujeto.",llama3-8b-8192,5,2
+80,"En preguntas en presente simple, se utiliza: ""do"" con sujetos I, you, we, they (yo, tú, nosotros/as, ellos/as)""does"" con sujetos he, she, it (él, ella, ello)Ejemplos:Do you speak English? (¿Hablas inglés?)Does she like coffee? (¿Le gusta el café a ella?)",gemma-7b-it,5,2
+81,"Use ""do"" for he/she/it in present simple questions, and ""does"" for third person singular subjects (he, she, it) in present simple questions. Examples: Do you like pizza? (correct)Does he like pizza? (correct)*Do he like pizza? (incorrect)*Does you like pizza? (incorrect)",mixtral-8x7b-32768,4,2
+82,"Verbos en ""er"": se agrega ""e"" al final. (comer -> come) Verbos en ""ir"": se agrega ""e"" al final. (ir -> va) Verbos en ""ar"": se agrega ""e"" al final. (hacer -> hace)",llama3-8b-8192,2,3
+83,"¡Claro! En presente simple, los verbos que terminan en ""-er"", ""-ir"" y ""-ar"" se conjugan de la siguiente manera: Yo: -o Tú: -es/-as Él/ella/usted: -e/-a Nosotros/as: -emos/-imos/-amos Vosotros/as: -éis/-ís/-áis Ellos/as: -en/-en/-anRecuerda que hay algunas excepciones, pero esta es la forma general de conjugación en presente simple.",gemma-7b-it,2,3
+84,"To form questions in present simple tense: Invert subject and verb (add ""do"" or ""does"" for negatives). Use the base form of the verb. Examples: He runs? -> Does he run? She sings? -> Does she sing? They write? -> Do they write? He drives? -> Does he drive? I talk? -> Do I talk? She studies? -> Does she study?",mixtral-8x7b-32768,5,3
+85,"In English, an adjective is a word that modifies, or describes, a noun or pronoun by providing more information about its qualities, properties, or characteristics.",llama3-8b-8192,2,4
+86,"Un adjetivo descriptivo es un adjetivo que describe o califica un sustantivo, expresando alguna característica o propiedad del mismo. Se coloca después del sustantivo que describe.",gemma-7b-it,2,4
+87,Un adjetivo descriptivo es un tipo de adjetivo que se utiliza para describir o dar más información sobre un sustantivo (nombre) en una oración.,mixtral-8x7b-32768,3,4
+88,"En inglés, los adjetivos demostrativos son este (this), ese (that), y aquel (that one, although it's more formal).",llama3-8b-8192,3,5
+89,**Los adjetivos demostrativos se usan para indicar qué objeto o persona específico estamos hablando.** Hay dos adjetivos demostrativos: (este y aquel),gemma-7b-it,2,5
+90,"In English, demonstratives are a type of adjective that indicate proximity to the speaker (or the listener). They are used to show the relationship between the noun and the speaker or listener. There are three main demonstratives in English: this, that, and these and those.",mixtral-8x7b-32768,3,5
+91,"The adjective possessive for ""we"" is ours.",llama3-8b-8192,3,6
+92,"**Our** es el adjetivo posesivo para ""we"".",gemma-7b-it,3,6
+93,"El adjetivo posesivo para ""we"" (nosotros/as) en inglés es ""our"".",mixtral-8x7b-32768,3,6
+94,"In English, when asking about specific options, we typically use the interrogative adjective ""which"". ",llama3-8b-8192,3,7
+95,"""Which"" es el adjetivo interrogativo usado para preguntar por opciones específicas.",gemma-7b-it,2,7
+96,"El adjetivo interrogativo que se utiliza para preguntar por opciones específicas en inglés es ""which"".",mixtral-8x7b-32768,2,7
+97,"Un adjetivo indefinido es un adjetivo que no modifica a un sustantivo específico en una oración, sino que puede aplicarse a cualquier sustantivo del mismo grupo. ",llama3-8b-8192,3,8
+98,"Los adjetivos indefinidos son aquellos que no describen una cualidad específica de un sustantivo, sino más bien su cantidad o su grado de comparación. Algunos ejemplos comunes de adjetivos indefinidos en inglés son:",gemma-7b-it,4,8
+99,Un adjetivo indefinido es un adjetivo que no se refiere a un sustantivo específico. Por ejemplo:* **Feliz** es un adjetivo indefinido. No se refiere a ninguna persona o cosa en particular.,mixtral-8x7b-32768,4,8
+100,"El pronombre objeto para ""he"" es ""him"".",llama3-8b-8192,3,9
+101,"El pronombre objeto para ""he"" (él) en inglés es ""him"".",gemma-7b-it,3,9
+102,"El pronombre objeto para ""he"" es ""him"". ""He"" es una palabra personal y se usa para referirse a la acción o efecto de un verbo.
+* ""Him"" es el pronombre objeto que se usa para indicar a alguien o algo al que la acción o el efecto del verbo se aplica.",mixtral-8x7b-32768,4,9
+103,"El pronombre posesivo para ""you"" en inglés es ""your"". Ejemplo: ""Your book is on the table."" (Tu libro está en la mesa.)",llama3-8b-8192,4,10
+104,* Tuyo/a,gemma-7b-it,5,10
+105,* Tuos/as,mixtral-8x7b-32768,5,10
+106,"el adjetivo interrogativo que se utiliza para preguntar por opciones específicas es ""which"".",llama3-8b-8192,5,11
+107,"Un ejemplo de un adjetivo indefinido en español es ""alguno"". Por ejemplo, ""Tengo algunos libros en casa"" o ""Necesito comprar algunas frutas"".",gemma-7b-it,5,11
+108,"Los adjetivos descriptivos son palabras que acompañan al sustantivo proporcionando alguna cualidad, estado o característica1. ",mixtral-8x7b-32768,4,11
+109,"Los adjetivos demostrativos en inglés son ""this"", ""that"", ""these"" y ""those"". Se utilizan para indicar la proximidad o la distancia entre el hablante y el objeto o persona que se está describiendo.",llama3-8b-8192,5,12
+110,"Para ""we"", el adjetivo posesivo en inglés es ""our"". Por ejemplo, ""our house"" significa ""nuestra casa"" y ""our car"" significa ""nuestro coche"".",gemma-7b-it,5,12
+111,"El adjetivo interrogativo que se utiliza para preguntar por opciones específicas en inglés es “which”. Por ejemplo, puedes decir: “¿Cuál es tu película favorita?” usando “Which” como en ""Which movie is your favorite?""12.",mixtral-8x7b-32768,5,12
+112,"Para ""we"", el adjetivo posesivo en inglés es ""our"". Por ejemplo:Our house",llama3-8b-8192,5,13
+113,Los adjetivos demostrativos son palabras que señalan o indican la ubicación o posición de un objeto o persona con respecto al hablante.,gemma-7b-it,4,13
+114,"El adjetivo posesivo para ""we"" en español es ""nuestro""",mixtral-8x7b-32768,4,13
+115,los adjetivos indefinidos introducen al sustantivo en la oración y delimitan su cantidad o identidad de manera poco exacta.,llama3-8b-8192,5,14
+116,"Los adjetivos descriptivos son palabras que acompañan a los sustantivos y proporcionan información sobre sus cualidades, estados o características.",gemma-7b-it,4,14
+117,Los adjetivos demostrativos se utilizan para señalar o indicar la posición en el espacio o en el tiempo de un objeto o persona con respecto al hablante y al oyente.,mixtral-8x7b-32768,5,14
+118,"El adjetivo posesivo para “we” en español es “nuestro”. Por ejemplo, puedes decir: “Nuestra casa está lejos de aquí” o “Las expectativas nuestras son altas” 1.",llama3-8b-8192,5,15
+119,"e utiliza para referirse a una cantidad no específica de algo, pero que es más de uno.",gemma-7b-it,4,15
+120,los adjetivos indefinidos son aquellos que introducen al sustantivo en la oración y delimitan su cantidad o identidad de manera poco exacta.,mixtral-8x7b-32768,2,15
+121,"El pronombre objeto para ""él"" en español es lo cuando se refiere a un objeto masculino singular y la cuando se refiere a un objeto femenino singular.",llama3-8b-8192,2,16
+122,"En español, los pronombres objeto directo para ""él"" y ""ella"" son ""lo"" y ""la"", respectivamente.",gemma-7b-it,5,16
+123,Los pronombres objeto directo en español son “lo” para “él” y “la” para “ella”. Estos se utilizan para referirse a la persona o cosa que recibe la acción del verbo.,mixtral-8x7b-32768,2,16
+124,"Se usa cuando el pronombre posesivo actúa como adjetivo, acompañando a un sustantivo.",llama3-8b-8192,2,17
+125,Es el pronombre posesivo que se utiliza cuando queremos referirnos a algo que pertenece a “you”.,gemma-7b-it,3,17
+126,"El pronombre posesivo para ""you"" en español depende de si se usa en forma tónica o átona",mixtral-8x7b-32768,3,17
+127,Es el pronombre relativo más común y versátil. Se utiliza para introducir una oración subordinada que describe o especifica algo sobre el antecedente.,llama3-8b-8192,2,18
+128,"Los pronombres reflexivos en español se usan en una variedad de situaciones, pero en general, se emplean para indicar que la acción del verbo se realiza sobre el mismo sujeto.",gemma-7b-it,3,18
+129,"Los pronombres reflexivos en español se utilizan en varias situaciones, y su uso principal es para indicar que la acción del verbo recae sobre el mismo sujeto que la realiza",mixtral-8x7b-32768,3,18
+130,"El pronombre relativo que se usa para personas en español es ""quien"" (en singular) o ""quienes"" (en plural). También se puede usar ""que"" en ciertas construcciones.",llama3-8b-8192,3,19
+131,Se emplea para referirse a algo específico o para hacer una aclaración sobre el antecedente,gemma-7b-it,3,19
+132,"En español, hay dos pronombres relativos principales que se usan para referirse a personas: quien(es) y que.",mixtral-8x7b-32768,3,19
+133,"En español, los tipos de pronombres incluyen personales, demostrativos, posesivos, relativos, indefinidos, reflexivos, recíprocos, interrogativos, exclamativos, enclíticos y neutros.",llama3-8b-8192,2,20
+134,"“Los pronombres objeto directo para ‘él’ y ‘ella’ son ‘lo’ y ‘la’, respectivamente.”",gemma-7b-it,2,20
+135,"Los pronombres en español se dividen en personales, demostrativos, posesivos, relativos, indefinidos, reflexivos, recíprocos, interrogativos, exclamativos, enclíticos y neutros.",mixtral-8x7b-32768,5,20
+136,El Past Continuous (Presente Continuo del Pasado) es una forma verbale que se utiliza para describir una acción que estaba en curso en el pasado y que duró por un período de tiempo determinado.,llama3-8b-8192,5,21
+137,"El Past Continuous se forma con la ayuda del verbo auxiliar ""was/were"" + el verbo en el gerundio.",gemma-7b-it,4,21
+138,"El ""Past Continuous"" (también llamado ""Past Progressive"") es un tiempo verbal en inglés que se utiliza para describir una acción que estaba en progreso en el pasado. Este tiempo verbal se forma utilizando el auxiliar ""was"" o ""were"" seguido del gerundio (-ing) del verbo.",mixtral-8x7b-32768,2,21
+139,"En inglés, la forma de formar una pregunta en pasado continuo (o Past Continuous) es similar a la de la forma afirmativa, pero con una pequeña modificación. * ¿What was she studying when she got home? (¿Qué estaba estudiando cuando regresó a casa?)",llama3-8b-8192,2,22
+140,"**Se forma una pregunta en Past Continuous utilizando la siguiente estructura:**
+
+**Sujeto + estaba + verbing en -ing + objeto.**",gemma-7b-it,5,22
+141,"Sure, I'd be happy to help! The past continuous tense is used to describe actions that were in progress in the past. To form a question in the past continuous, follow these steps:
+
+1. Start with the subject of the sentence.
+2. Use the auxiliary verb ""was"" or ""were"" (was for singular subjects and were for plural subjects) followed by the present participle (base verb with -ing).
+3. Finish the question with a question mark.",mixtral-8x7b-32768,2,22
+142,"Un ejemplo de una pregunta en forma de Past Continuous sería: ""What were you doing at 10:00 PM last night?"" (Estás preguntando por el presente continuo del pasado, es decir, el estado o acción que estaba sucediendo en un momento específico en el pasado)",llama3-8b-8192,2,23
+143,"Claro, aquí está un ejemplo de una pregunta en Past Continuous:
+
+**¿Estaba hablando del proyecto cuando llegó a la oficina?**",gemma-7b-it,3,23
+144,"Claro, aquí está un ejemplo de pregunta en Pasado Continuo (Past Continuous):
+
+""¿Qué estabas haciendo a las 3 de la tarde hace dos días?""",mixtral-8x7b-32768,3,23
+145,"En inglés, tanto el Past Simple (PS) como el Past Continuous (PC) se utilizan para describir acciones pasadas, pero con algunas importantes diferencias. * El Past Simple se utiliza para describir acciones completas y finalizadas.
+* El Past Continuous se utiliza para describir acciones en curso o que estaban en curso en un momento pasado específico.",llama3-8b-8192,2,24
+146,"PAST CONTINUOS * Se utiliza para describir acciones que estaban en curso o que se estaban realizando en un punto en el pasado.
+* Se forma con el verbo auxiliar ""was"" o ""were"" más el verbo en el pasado participle.
+* Se usa para enfatizar que la acción estaba en curso o que aún estaba en proceso. 
+PAST SIMPLE * Se utiliza para describir acciones que se completaron en un punto en el pasado.
+* Se forma con el verbo en el pasado.
+* Se usa para describir eventos simples o eventos que estaban completos.",gemma-7b-it,3,24
+147,"En resumen, la diferencia entre el Past Continuous y el Past Simple radica en el tipo de acción que se está describiendo: el Past Simple se utiliza para acciones completas y puntuales, mientras que el Past Continuous se utiliza para acciones en progreso en el pasado.",mixtral-8x7b-32768,3,24
+148,"El Past Continuous (también conocido como el Present Perfect Continuous, no debe confundirse con el Past Simple Continuous) se utiliza para describir una acción que estaba en curso en un momento pasado y que no ha terminado (o que no empezó o finalizó en ese momento).",llama3-8b-8192,3,25
+149,"El Past Continuous se utiliza para describir acciones en curso que fueron interrumpidas, no para acciones que ya estaban completadas.",gemma-7b-it,3,25
+150,"El Pasado Continuo (también llamado Pasado Progresivo) se utiliza para describir una acción que estaba en progreso en un momento específico del pasado, y que fue interrumpida por otra acción o evento.",mixtral-8x7b-32768,3,25
