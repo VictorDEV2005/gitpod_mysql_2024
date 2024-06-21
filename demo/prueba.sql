@@ -63,21 +63,5 @@ LINES TERMINATED BY '\n'
 IGNORE 1 LINES;
 
 
-CREATE VIEW vista_completa AS
-SELECT 
-    m.materia,
-    t.nombre_tema AS tema,
-    p.pregunta,
-    p.calidad_prompt,
-    r.respuesta,
-    r.ia,
-    r.calidad_respuesta
-FROM 
-    materias m
-JOIN 
-    temas t ON m.id_materia = t.id_materia
-JOIN 
-    preguntas p ON t.id_tema = p.id_tema
-JOIN 
-    respuestas r ON p.id_pregunta = r.id_pregunta;
+select * from materias;
 
