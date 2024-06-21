@@ -22,6 +22,7 @@ CREATE TABLE temas (
   dificultad INT NOT NULL,
   id_materia INT,
   FOREIGN KEY (id_materia) REFERENCES materias(id_materia)
+  CONSTRAINT chk_dificultad CHECK (dificultad >= 1 AND dificultad <= 5);
 );
 LOAD DATA LOCAL INFILE "Base de datos - temas.csv"
 INTO TABLE temas
@@ -64,4 +65,3 @@ IGNORE 1 LINES;
 
 
 select * from materias;
-
